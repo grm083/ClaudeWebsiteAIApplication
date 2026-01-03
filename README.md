@@ -231,9 +231,9 @@ self.delay = 1  # Change to desired seconds
 
 ### Changing AI Model
 
-Edit `web_automation.py` line 27 to use a different Gemini model:
+Edit `web_automation.py` line 31 to use a different Gemini model:
 ```python
-self.model = genai.GenerativeModel('gemini-pro')  # or 'gemini-pro-vision'
+self.model = genai.GenerativeModel('gemini-1.5-flash')  # or 'gemini-1.5-pro' for better quality
 ```
 
 ## Limitations
