@@ -1,0 +1,34 @@
+# User Profile Data
+# Fill in your information below. This data will be used by the AI to fill out web forms.
+# Format: key: value
+
+# Personal Information
+First Name: John
+Last Name: Doe
+Full Name: John Doe
+Email: john.doe@example.com
+Phone: (555) 123-4567
+Date of Birth: 01/15/1990
+Age: 35
+
+# Address Information
+Street Address: 123 Main Street
+City: San Francisco
+State: California
+Zip Code: 94102
+Country: United States
+
+# Professional Information
+Company: Tech Solutions Inc
+Job Title: Software Engineer
+Industry: Technology
+Years of Experience: 10
+
+# Additional Information
+LinkedIn: https://linkedin.com/in/johndoe
+Website: https://johndoe.com
+Skills: Python, JavaScript, Web Development
+Interests: Technology, Reading, Hiking
+
+# Add any other custom fields you need below:
+# Custom Field: Custom Value
