@@ -28,7 +28,7 @@ class WebAutomationBot:
             raise ValueError("GEMINI_API_KEY not found in environment variables. Please create a .env file with your API key.")
 
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.model = genai.GenerativeModel('gemini-2.5-flash')
 
         # Load profile data
         self.profile_data = self.load_profile()
